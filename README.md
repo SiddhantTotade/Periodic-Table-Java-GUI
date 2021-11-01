@@ -1,10 +1,10 @@
 # Periodic-Table-Java-GUI
-This is a GUI of PERIODIC TABLE made on Java Swing (Java Version:16)
+This is a GUI of PERIODIC TABLE made on Java Swing ( Java Version:16 )
 
 ![Periodic Table 1](https://user-images.githubusercontent.com/80762775/139726785-5a99c995-51ae-4f61-ad20-0b48784e1570.jpg)
 
 
-It Shows the Elements and their Properties or Related Information. (just click on an Element)
+It Shows the Elements and their Properties or Related Information. ( just click on an Element )
 
 ![Periodic Table 4](https://user-images.githubusercontent.com/80762775/139726868-f53afd7f-e4c2-42dd-be7e-a97db850904e.jpg)
 
