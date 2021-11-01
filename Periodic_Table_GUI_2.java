@@ -27,8 +27,7 @@ public class Periodic_Table_GUI_2 extends JPanel {
         // Labels (It shows the working of Labels)
         JLabel L = new JLabel("What's This..?");
 
-        // // Magic Frame Settings (Uncomment it and See, but don't forget to comment
-        // the Last Code which is at the End of Program.)
+        // // Magic Frame Settings (Uncomment it and See, but don't forget to comment the Last Code which is at the End of Program.)
         // ImageIcon Img = new ImageIcon("Periodic1.png");
         // F.setIconImage(Img.getImage());
         // F.setSize(1300, 550);
@@ -2445,16 +2444,12 @@ public class Periodic_Table_GUI_2 extends JPanel {
         F.setIconImage(Img.getImage()); // Setting icon in Frame
         UIManager.put("ToggleButton.select", Color.GREEN.darker()); // Toggle Button ON state (Green).
         SwingUtilities.updateComponentTreeUI(T); // For updating the Toggle Button color.
-        UIManager.put("OptionPane.messageFont", new FontUIResource(new Font("Garamond", Font.BOLD, 20))); // Font and
-                                                                                                          // Font size
-                                                                                                          // of
-                                                                                                          // ELEMENTS.
+        UIManager.put("OptionPane.messageFont", new FontUIResource(new Font("Garamond", Font.BOLD, 20))); // Font and Font size of ELEMENTS.
         T.setBackground(Color.RED); // Toggel Button OFF state (Red).
         T.setBounds(30, 470, 15, 15); // Setting Position, Width, Heigth of Togggle Button
         L.setForeground(Color.WHITE); // Color of Label (What's This..?)
         L.setBounds(53, 427, 100, 100); // Setting Position, Width, Heigth of Text (What's This..?)
-        L.setToolTipText("Turn this Feature ON to know more about ELEMENTS."); // Moving cursor on the text "What's
-                                                                               // This" will show a message.
+        L.setToolTipText("Turn this Feature ON to know more about ELEMENTS."); // Moving cursor on the text "What's This" will show a message.
         F.setSize(1300, 550); // Frame Size
         F.setResizable(false); // Cannot able to resize the frame
         F.add(L); // Adding Label in Frame
@@ -2463,7 +2458,6 @@ public class Periodic_Table_GUI_2 extends JPanel {
         F.setLocationRelativeTo(null);
         F.setVisible(true);
         F.getContentPane().setBackground(Color.BLACK); // Frame Backgroung Color (Black)
-        F.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); // Clicking on cross (X) will let You close the
-                                                                   // program
+        F.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE); // Clicking on cross (X) will let You close the program
     }
 }
