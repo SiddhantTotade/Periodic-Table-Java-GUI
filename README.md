@@ -17,5 +17,6 @@ RED = OFF State
 ![Periodic Table 2](https://user-images.githubusercontent.com/80762775/139726829-a4c6e0e3-0f11-49ca-8c59-3be03d79f71f.jpg)
 
 
-# GREEN = ON State
-# ![Periodic Table 3]#(https://user-images.githubusercontent.com/80762775/139726849-ebfcaee7-c3c6-4f79-b8f3-9173e2d3b572.jpg)
+GREEN = ON State
+
+![Periodic Table 3](https://user-images.githubusercontent.com/80762775/139726849-ebfcaee7-c3c6-4f79-b8f3-9173e2d3b572.jpg)
