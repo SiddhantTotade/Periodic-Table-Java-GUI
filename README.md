@@ -1,5 +1,5 @@
 # Periodic-Table-Java-GUI
-This is a GUI of PERIODIC TABLE made on Java Swing ( Java Version:16 )
+This is a GUI of PERIODIC TABLE made on Java Swing ( `Java Version:16` )
 
 ![Periodic Table 1](https://user-images.githubusercontent.com/80762775/139726785-5a99c995-51ae-4f61-ad20-0b48784e1570.jpg)
 
